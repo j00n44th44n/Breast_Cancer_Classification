@@ -1,5 +1,5 @@
 # Udemy - Machine Learning Practical 6 Real-World Applications
-### SVM Breast Cancer Classification
+### SVM Breast Cancer Classification (97% of acc)
 ###### https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 > `Steps`
 1. Importing Data and Libreries
